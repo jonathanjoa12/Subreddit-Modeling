@@ -3,7 +3,7 @@
 
 ### Overview
 
-The stock market has gained significant popularity since the COVID-19 pandemic started. This means that thousands of brokerage accounts opened. There are two ways to trade in the stock market.  One is trading regular shares itself. Another way is trading options. These two ways of trading are different to each other. Much of these users rely on news and posts in attempt to optimize their profits and experience in the stock market. One way is by reading the news on a daily basis. Another way is to get opinions from other traders or analysts through platforms like reddit. This project seeks to analyze the two subreddits of stock market and options and differentiating them by the posts of users. Through the posts of users, we can use the text to create a model.
+The stock market has gained significant popularity since the COVID-19 pandemic started. This means that thousands of brokerage accounts opened. There are two ways to trade in the stock market. One is trading regular shares itself. Another way is trading options. These two ways of trading are different to each other. Much of these users rely on news and posts in attempt to optimize their profits and experience in the stock market. One way is by reading the news on a daily basis. Another way is to get opinions from other traders or analysts through platforms like reddit. This project seeks to analyze the two subreddits of stock market and options and differentiating them by the posts of users. Through the posts of users, we can use the text to create a model.
 
 
 ### Problem Statement:
